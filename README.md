@@ -2,7 +2,7 @@
 
 Solidity staking contracts for the Theta Vibes NFT collections on the Theta blockchain. Holders deposit their NFTs and earn an ERC-20 reward token over time, with one contract per collection (Guardian, Rastaman, Lil Monsters, Dreamland, and more).
 
-Part of the **Theta Vibes / Guardian of Theta** project: [frontend](https://github.com/davinharding/guardian-of-theta-frontend) · [NFT staking contracts](https://github.com/davinharding/staking-guardina-of-theta) · [GOT reward airdropper](https://github.com/davinharding/GOTAirdropper)
+Part of the **Theta Vibes / Guardian of Theta** project: [frontend](https://github.com/davinharding/guardian-of-theta-frontend) · [NFT staking contracts](https://github.com/davinharding/staking-guardian-of-theta) · [GOT reward airdropper](https://github.com/davinharding/GOTAirdropper)
 
 ## How it works
 
